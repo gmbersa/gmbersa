@@ -32,5 +32,6 @@ PostGIS • Git • GitHub • Jupyter • R • C++
 
 ### 🤝 Connect With Me
 
-#LinkedIn - www.linkedin.com/in/bersa-gm-737479391
-#GitHub - https://github.com/gmbersa?utm_source
+LinkedIn - www.linkedin.com/in/bersa-gm-737479391
+
+GitHub - https://github.com/gmbersa?utm_source
