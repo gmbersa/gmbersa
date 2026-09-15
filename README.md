@@ -6,7 +6,9 @@ I'm on a journey into Data Science, exploring how data can
 be transformed into meaningful insights and real-world solutions.
 
 #🎓 Data Science Student
+
 #📊 Data Analysis & Visualization
+
 #🗺️ GIS & Spatial Analytics
 #🤖 Exploring Machine Learning
 #🏙️ Smart City & Spatial Intelligence
