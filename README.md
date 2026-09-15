@@ -1,4 +1,4 @@
-👋 Hi, I'm Bersa
+👋 Hi, I'm Bersabeh
 
 Data Scientist | GIS & Spatial Analytics
 
