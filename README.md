@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I'm Bersa
 
-<!--
-**gmbersa/gmbersa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | GIS & Spatial Analytics
 
-Here are some ideas to get you started:
+I'm on a journey into Data Science, exploring how data can
+be transformed into meaningful insights and real-world solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Data Science Student
+📊 Data Analysis & Visualization
+🗺️ GIS & Spatial Analytics
+🤖 Exploring Machine Learning
+🏙️ Smart City & Spatial Intelligence
+
+# 🛠️ Technologies
+
+Python • SQL • Pandas • GeoPandas • PostgreSQL
+PostGIS • Git • GitHub • Jupyter • R • C++   
+
+## 🚀 Featured Projects
+
+🏙️ Smart City Spatial Intelligence Platform
+📊 Data Analytics & Visualization
+🗺️ GIS Spatial Analysis
+🚦 Road Accident Analysis
+
+### 🤝 Connect With Me
+
+LinkedIn - www.linkedin.com/in/bersa-gm-737479391
+GitHub - https://github.com/gmbersa?utm_source
